@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Display Image</string>
+    <string name="button_thread_text">Load Using Thread</string>
+    <string name="button_async_text">Load Using AsyncTask</string>
+    <string name="url_thread">https://cdn.pixabay.com/photo/2017/12/31/06/16/boats-3051610_960_720.jpg</string>
+    <string name="url_async"> https://cdn.pixabay.com/photo/2014/12/16/22/25/youth-570881_960_720.jpg</string>
+</resources>
